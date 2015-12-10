@@ -1,0 +1,33 @@
+/*
+	STYLES.CSS
+*/
+
+
+
+
+p {
+
+	color: orange;
+	font-size: 30px;
+}
+h1{
+	color: blue;
+}
+
+
+div {
+	border: 2px solid purple;
+}
+
+.biggreen{
+	border: 2px solid green;
+	height: 200px;
+}
+
+.inside{
+	color: red;
+}
+
+#unique {
+	background-color: yellow;
+}
